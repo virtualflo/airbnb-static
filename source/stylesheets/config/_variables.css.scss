@@ -2,8 +2,8 @@
  * Fonts
  * ------------------------------------- */
 // Google fonts
-@import url("https://fonts.googleapis.com/css?family=Open+Sans:400,300,700|Raleway:400,100,300,700,500");
-$base-font: "Open Sans", "Helvetica", "sans-serif";
+@import url("https://fonts.googleapis.com/css?family=Amiko:400,700|Raleway:400,100,300,700,500");
+$base-font: "font-family", "Amiko", "sans-serif";
 $header-font: "Raleway", "Helvetica", "sans-serif";
 
 // Local fonts (uncomment following lines)
@@ -24,12 +24,12 @@ $base-height: 1.4;
  * Colors
  * ------------------------------------- */
 // Scheme
-$brand-color: #D23333;
+$brand-color: #98E499;
 
-$red: #EE5F5B;
-$blue: #469AE0;
+$pink: #EB7F9B;
+$blue: #479AE0;
 $yellow: #FDB631;
-$orange: #E67E22;
+$green-clear: #A19E22;
 $green: #32B796;
 
 // Gray scale
